@@ -1,0 +1,9 @@
+<?php 
+
+//TELEGRAM BOT SETTINGS
+$token = "6124601905:AAFFK4NG34Hpogg7TA0CIiF1sUWK0yMK67M";
+$chat_id = "-1001692583947";
+
+
+
+?>
